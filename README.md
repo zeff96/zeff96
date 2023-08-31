@@ -14,7 +14,7 @@
     const adekaZeffs = {
     lookingFor: "Front-end developer" || "Full-stack web developer",
     pronouns: ["him", "he"],
-    code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap],
+    code: [JavaScript, React, Redux, Ruby, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap],
     askMeAbout: [Soccer, video games, scientific shows],
     challenge: "I am honing my React skills and picking up TypeScript",
     funFacts: ['I have several months of remote work experience with devs 
