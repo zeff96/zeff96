@@ -23,5 +23,5 @@
 </p>
 <p>
   You can check out my portfolio
-  <a href="https://zeff96.github.io/Portfolio.github.io/" rel="no-follow">here</a>
+  <a href="https://portfolio-lime-theta-98.vercel.app/" rel="no-follow">here</a>
 </p>
